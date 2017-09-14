@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  test110905
+
+  Created by aklboy on 2017/9/7.
+  Copyright © 2017年 gary. All rights reserved.
+*/
+
+
+"api_ip" = "http://tas.taipei/AmlApp/";
